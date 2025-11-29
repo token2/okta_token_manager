@@ -1,8 +1,3 @@
-Here’s a clean, polished **README.md** for your repository **okta_token_manager**.
-Let me know if you want badges, screenshots, or installation instructions added.
-
----
-
 # Okta Token Manager
 
 Automate OATH Token Activation in Okta
