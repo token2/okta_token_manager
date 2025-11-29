@@ -68,18 +68,4 @@ Your CSV file **must** contain the following columns:
    * Activates the token with the provided seed
 4. Progress and errors are logged in real time
 
----
-
-## Repository
-
-**Repo name:** `okta_token_manager`
-
----
-
-If you'd like, I can also add:
-
-* Installation steps (pip, venv, dependencies)
-* GUI screenshots
-* Architecture diagram
-* Example CSV files
-  Just tell me!
+ 
