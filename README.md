@@ -9,6 +9,7 @@ It supports **bulk CSV-based token activation**, automatic user lookup, and fact
 
 <img width="1157" height="611" alt="image" src="https://github.com/user-attachments/assets/6aeb8e49-eeec-4ae1-aab9-5fb0ce7e678a" />
 
+Detailed guide about using Classic TOTP tokens with Okta is available here https://www.token2.swiss/site/page/using-token2-classic-tokens-with-okta-custom-otp-method-
 ---
 
 ## Key Features
