@@ -5,12 +5,11 @@ Automate OATH Token Activation in Okta
 ## Overview
 
 **Okta Token Manager** is a Python GUI application designed to simplify and automate the activation and management of **Token2 Classic OATH tokens** within Okta.
-It supports **bulk CSV-based token activation**, automatic user lookup, and factor assignment—saving time and reducing manual errors for administrators.
+It supports **bulk CSV-based token activation**, automatic user lookup, and factor assignment—saving time and reducing manual errors for administrators. Detailed guide about using Classic TOTP tokens with Okta is available here https://www.token2.swiss/site/page/using-token2-classic-tokens-with-okta-custom-otp-method-
 
 <img width="1157" height="611" alt="image" src="https://github.com/user-attachments/assets/6aeb8e49-eeec-4ae1-aab9-5fb0ce7e678a" />
 
-Detailed guide about using Classic TOTP tokens with Okta is available here https://www.token2.swiss/site/page/using-token2-classic-tokens-with-okta-custom-otp-method-
----
+ 
 
 ## Key Features
 
